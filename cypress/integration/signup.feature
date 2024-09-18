@@ -18,4 +18,4 @@ Feature: Signup page functionality
       | password   | <password>         |
     Examples:
       | email                | password      |
-      | manuvarma13@gmail.com | TestPassword123 |
+      | manuvarma14@gmail.com | TestPassword123 |
